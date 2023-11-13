@@ -4,7 +4,7 @@ Kort forklaring af hvordan scriptet fungere
 
 install.ps1 installere scriptet.
 Den copiere filen UpdateAppwriter.ps1 til en mappe C:\FGUScripts
-Derefter opretter den en Opgave i OpgaverStyring også kendst som TaskScheduler som kører scriptet ved hver opstart som system.
+Derefter opretter den en Opgave i OpgaverStyring også kendt som TaskScheduler som kører scriptet ved hver opstart som system.
 Både install.ps1 og UpdateAppwriter.ps1 gemmer logs i C:\FGUScripts\logs
 
 
